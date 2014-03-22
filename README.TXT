@@ -1,0 +1,2 @@
+RPC Port: 8274
+P2P Port: 8541
